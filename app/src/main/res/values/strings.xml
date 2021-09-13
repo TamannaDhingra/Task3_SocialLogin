@@ -2,5 +2,6 @@
     <string name="app_name">Task-3(Social Login)</string>
     <string name="facebook_app_id">253829576611107</string>
     <string name="fb_login_protocol_scheme">fb253829576611107</string>
-
+    <string name="API_Key">WLM6D71dAta0vh51g9SpQhyL1</string>
+    <string name="Api_secreat">BkCmt9mmglXTszjau7TS5Vthqn1Yos2O7RH1riNoQG2k3lHGcI</string>
 </resources>
